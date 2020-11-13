@@ -1,0 +1,17 @@
+Features to be tested
+1. Display student details entered by user
+2. Calculate and display aggregate
+3. Check for condonation
+4. Display amount to be paid
+
+Activities to be performed
+1. Analyse manual test cases
+2. Setup software test environment
+3. Conduct test
+4. Fulfil software requirements
+ 
+Exit criteria
+1. Completed test plan
+2. All test cases are executed
+3. Tests passed
+4. Acceptance criteria satisfied
