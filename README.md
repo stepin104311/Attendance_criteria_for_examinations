@@ -5,3 +5,4 @@ If not sufficient check for the condonation criteria and if satisfies allow the 
 ![cppcheck-action](https://github.com/stepin104311/Attendance_criteria_for_examinations/workflows/cppcheck-action/badge.svg)
 ![cppcheck-action](https://github.com/stepin104311/Attendance_criteria_for_examinations/workflows/cppcheck-action/badge.svg)
 ![cppcheck-action](https://github.com/stepin104311/Attendance_criteria_for_examinations/workflows/cppcheck-action/badge.svg)
+![Valgrind](https://github.com/stepin104311/Attendance_criteria_for_examinations/workflows/Valgrind/badge.svg)
